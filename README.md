@@ -20,8 +20,9 @@ Or install it yourself as:
     $ gem install bluetulip_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+ BluetulipViewTool::Renderer.copyright 'Blue Tulip', 'All rights reserved'
+ ```
 
 ## Development
 
